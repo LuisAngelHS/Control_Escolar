@@ -1,0 +1,159 @@
+using iTextSharp.text; //Para lo del pdf
+using iTextSharp.text.pdf;
+using System.Net.Mail; //Para lo del correo
+using System.Net.Mime;
+using System.IO;
+
+
+
+
+        private string To;
+        private string Subject;
+        private string Body;
+        private MailMessage mail;
+        private Attachment Data;
+        private DataTable dt;
+        private SqlDataAdapter da;
+        private int fila;
+        private Bitmap bmp;
+
+
+
+private void txtenviar_Click(object sender, EventArgs e)
+        {
+            //deshabilitamos los botones que no queremos en el pdf
+            txtenviar.Visible = false;
+            txtcorreo.Visible = false;
+            bt_Regresar.Visible = false;
+            MostrarDatos.Visible = false;
+            Guardar1.Visible = false; Guardar2.Visible = false; Guardar3.Visible = false; Guardar4.Visible = false; Guardar5.Visible = false;
+            Guardar6.Visible = false; Guardar7.Visible = false; Guardar8.Visible = false; Guardar9.Visible = false; Guardar10.Visible = false;
+            Guardar11.Visible = false;
+            SqlConnection conn = new SqlConnection("Data Source=MONZA\\SQLEXPRESS;initial catalog=GestionProyectosDeSoftware; Integrated Security=true ");
+            //SqlCommand comando = new SqlCommand(cadSql, conn);
+            conn.Open();
+            //SqlDataReader leer = comando.ExecuteReader();
+            String stConection;
+            String stConsulta3;
+            stConection = "Data Source=MONZA\\SQLEXPRESS;initial catalog=GestionProyectosDeSoftware; Integrated Security=true";
+            //conexion.ConnectionString = stConection;
+            //conexion.Open();
+            stConsulta3 = "SELECT CorreoPadreTutorPre FROM AlumnoPreescolar where IdAlumnoPre = '" + txtNumControl.Text + "'";
+            SqlCommand ConsultaCorreo = new SqlCommand();
+            ConsultaCorreo.Connection = conn;
+            ConsultaCorreo.CommandText = stConsulta3;
+            SqlDataReader Control = ConsultaCorreo.ExecuteReader();
+            
+
+            if (Control.HasRows)
+            {
+                Control.Read();
+                txtcorreo.Text = Control["CorreoPadreTutorPre"].ToString();
+            }
+
+            conn.Close();
+
+            // Para llenar lo del correo
+            To = txtcorreo.Text;
+            Subject = "Calificacion Mensual de su hijo";
+            Body = "EL Instituto HispanoAmericano - Mexicano le entrega las calificaciones correspondientes del mes";
+
+            SaveFileDialog filename = new SaveFileDialog();
+            filename.Filter = "Imagen jpeg|*.jpeg";
+            filename.ShowDialog();
+            if (filename.FileName != "")
+            {
+                Graphics g1 = this.CreateGraphics();
+                System.Drawing.Image MyImage = new Bitmap(this.ClientRectangle.Width, this.ClientRectangle.Height, g1);
+                Graphics g2 = Graphics.FromImage(MyImage);
+                IntPtr dc1 = g1.GetHdc();
+                IntPtr dc2 = g2.GetHdc();
+                BitBlt(dc2, 0, 0, this.ClientRectangle.Width, this.ClientRectangle.Height, dc1, 0, 0, 13369376);
+                g1.ReleaseHdc(dc1);
+                g2.ReleaseHdc(dc2);
+
+                FileStream fileStream = new FileStream(filename.FileName, FileMode.Create, FileAccess.Write);
+                MyImage.Save(fileStream, System.Drawing.Imaging.ImageFormat.Jpeg);
+
+                fileStream.Close();
+                MyImage.Dispose();
+
+                //Una vez obtenida la imagen la convertimos en PDF   (Estas coordenas son iguales al tamaño del formulario)
+                var pgSize = new iTextSharp.text.Rectangle(700, 640);
+                Document document = new Document(pgSize, 10, 10, 10, 10);
+                //Guardamos el archivo en pdf con un nombre predefinido
+                string GuardarComo = @"C:\Users\sagit_000\Desktop\" + txtNombre.Text + txtNumControl.Text + ".pdf";
+                using (var stream = new FileStream(GuardarComo, FileMode.Create, FileAccess.Write, FileShare.None))
+                {
+                    PdfWriter.GetInstance(document, stream);
+                    document.Open();
+                    using (var imageStream = new FileStream(filename.FileName, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+                    {
+                        var image = iTextSharp.text.Image.GetInstance(imageStream);
+                        document.Add(image);
+                    }
+                    document.Close();
+                    EnviarCorreo();
+                }
+
+            }
+            txtenviar.Visible = true;
+            txtcorreo.Visible = true;
+            bt_Regresar.Visible = true;
+            MostrarDatos.Visible = true;
+            Guardar1.Visible = true; Guardar2.Visible = true; Guardar3.Visible = true; Guardar4.Visible = true; Guardar5.Visible = true;
+            Guardar6.Visible = true; Guardar7.Visible = true; Guardar8.Visible = true; Guardar9.Visible = true; Guardar10.Visible = true;
+            Guardar11.Visible = true; 
+        }
+        private void EnviarCorreo()
+        {
+
+
+            mail = new MailMessage();
+            mail.To.Add(new MailAddress(this.To));
+            mail.From = new MailAddress("sagitario_fer95@hotmail.com");
+            mail.Subject = Subject;
+            mail.Body = Body;
+            mail.IsBodyHtml = false;
+            //@"C:\Escritorio\" + txtNumControl.Text + ".pdf";
+            //en @ se pone la direccion donde se va a extraer el archivo pdf, deb quitar lo de "Escritorio",
+            //por que va directamente al debug y ahi adentro no hay una carpeta llamada Escritorio
+            // va a buscar el mismo nombre del archivo generado
+            Data = new Attachment(@"C:\Users\sagit_000\Desktop\" + txtNombre.Text + txtNumControl.Text + ".pdf", MediaTypeNames.Application.Pdf);
+
+            mail.Attachments.Add(Data);
+
+            SmtpClient client = new SmtpClient("smtp.live.com", 587);
+            using (client)
+            {
+                client.Credentials = new System.Net.NetworkCredential("sagitario_fer95@hotmail.com", "contraseña");
+                client.EnableSsl = true;
+                client.Send(mail);
+            }
+            MessageBox.Show("Mensaje enviado");
+        }
+        private void CapturaFormulario()
+        {
+
+            Graphics mygraphics = this.CreateGraphics();
+            Size sz = this.ClientRectangle.Size;
+            bmp = new Bitmap(sz.Width, sz.Height, mygraphics);
+            Graphics memoryGraphics = Graphics.FromImage(bmp);
+            IntPtr dc1 = mygraphics.GetHdc();
+            IntPtr dc2 = memoryGraphics.GetHdc();
+            BitBlt(dc2, 0, 0, this.ClientRectangle.Width,
+            this.ClientRectangle.Height, dc1, 0, 0, 13369376);
+            mygraphics.ReleaseHdc(dc1);
+            memoryGraphics.ReleaseHdc(dc2);
+        }
+
+        [System.Runtime.InteropServices.DllImport("gdi32.dll")]
+        public static extern long BitBlt(IntPtr hdcDest,
+            int nXDest,
+            int nYDest,
+            int nWidth,
+            int nHeight,
+            IntPtr hdcSrc,
+            int nXSrc,
+            int nYSrc,
+            int dwRop);

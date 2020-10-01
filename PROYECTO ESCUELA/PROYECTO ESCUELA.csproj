@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B62277A-97F9-4213-B802-29C9F47D2C77}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PROYECTO_ESCUELA</RootNamespace>
+    <AssemblyName>PROYECTO ESCUELA</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Dreamer\Desktop\WebSite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>B5DBD99D9F94A7EFF53BA558F6D67F78AE9128D2</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>PROYECTO ESCUELA_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BibliotecaDeClases">
+      <HintPath>..\..\..\..\CPY_SAVES\BibliotecaDeClases.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Core, Version=1.8.0.1, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9" />
+    <Reference Include="Bunifu.UI.WinForm.BunifuShadowPanel">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu UI WinForms 1.8.0.1\Bunifu.UI.WinForm.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu UI WinForms 1.8.0.1\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton">
+      <HintPath>..\..\..\..\Downloads\Bunifu UI WinForms 1.8.0.1\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu UI WinForms 1.8.0.1\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextbox">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu UI WinForms 1.8.0.1\Bunifu.UI.WinForms.BunifuTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\Downloads\Bunifu UI WinForms 1.8.0.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xtra">
+      <HintPath>..\itextsharp.xtra.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarAlumno.Designer.cs">
+      <DependentUpon>AgregarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Alumno.cs" />
+    <Compile Include="archivos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="archivos.Designer.cs">
+      <DependentUpon>archivos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BOLETA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOLETA.Designer.cs">
+      <DependentUpon>BOLETA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boleta1-2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boleta1-2.Designer.cs">
+      <DependentUpon>Boleta1-2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="boleta4-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="boleta4-6.Designer.cs">
+      <DependentUpon>boleta4-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boletas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Boletas.resx</DependentUpon>
+    </Compile>
+    <Compile Include="boletas3AS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="boletas3AS.Designer.cs">
+      <DependentUpon>boletas3AS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CALIFICACIONES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CALIFICACIONES.Designer.cs">
+      <DependentUpon>CALIFICACIONES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clasUsuario.cs" />
+    <Compile Include="clasUsuario1.cs" />
+    <Compile Include="conection.cs" />
+    <Compile Include="Control_Escolar1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Control_Escolar1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DIRECTORIO3-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIRECTORIO3-6.Designer.cs">
+      <DependentUpon>DIRECTORIO3-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIRECTORIO4-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIRECTORIO4-6.Designer.cs">
+      <DependentUpon>DIRECTORIO4-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIRECTORIO5-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIRECTORIO5-6.Designer.cs">
+      <DependentUpon>DIRECTORIO5-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIRECTORIO6-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIRECTORIO6-6.Designer.cs">
+      <DependentUpon>DIRECTORIO6-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIRECTORIOS1-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIRECTORIOS1-6.Designer.cs">
+      <DependentUpon>DIRECTORIOS1-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DIRECTORIOS2-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIRECTORIOS2-6.Designer.cs">
+      <DependentUpon>DIRECTORIOS2-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estadisticas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Estadisticas.Designer.cs">
+      <DependentUpon>Estadisticas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="generador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="generador.Designer.cs">
+      <DependentUpon>generador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Grupos.Designer.cs">
+      <DependentUpon>Grupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jquey.cs" />
+    <Compile Include="listas3A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listas3A.Designer.cs">
+      <DependentUpon>listas3A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listas4-6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listas4-6.Designer.cs">
+      <DependentUpon>listas4-6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listasB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listasB.Designer.cs">
+      <DependentUpon>listasB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="listasEscolares.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="listasEscolares.Designer.cs">
+      <DependentUpon>listasEscolares.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListasMensuales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListasMensuales.Designer.cs">
+      <DependentUpon>ListasMensuales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="llamado_listas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="llamado_listas.Designer.cs">
+      <DependentUpon>llamado_listas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="llam_calificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="llam_calificaciones.Designer.cs">
+      <DependentUpon>llam_calificaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principal.Designer.cs">
+      <DependentUpon>principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registro.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="validacion.cs" />
+    <EmbeddedResource Include="AgregarAlumno.resx">
+      <DependentUpon>AgregarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="archivos.resx">
+      <DependentUpon>archivos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOLETA.rdlc" />
+    <EmbeddedResource Include="BOLETA.resx">
+      <DependentUpon>BOLETA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boleta1-2.resx">
+      <DependentUpon>Boleta1-2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boleta3A.rdlc" />
+    <EmbeddedResource Include="boleta4-6.resx">
+      <DependentUpon>boleta4-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="boletaprimrdlc.rdlc" />
+    <EmbeddedResource Include="Boletas.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Boletas.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="boletas3AS.resx">
+      <DependentUpon>boletas3AS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calificaciones.rdlc" />
+    <EmbeddedResource Include="CALIFICACIONES.resx">
+      <DependentUpon>CALIFICACIONES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIRECTORIO2A.rdlc" />
+    <EmbeddedResource Include="DIRECTORIO3-6.resx">
+      <DependentUpon>DIRECTORIO3-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIRECTORIO3A.rdlc" />
+    <EmbeddedResource Include="DIRECTORIO4-6.resx">
+      <DependentUpon>DIRECTORIO4-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIRECTORIO4A.rdlc" />
+    <EmbeddedResource Include="DIRECTORIO5-6.resx">
+      <DependentUpon>DIRECTORIO5-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIRECTORIO5A.rdlc" />
+    <EmbeddedResource Include="DIRECTORIO6-6.resx">
+      <DependentUpon>DIRECTORIO6-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIRECTORIOS1-6.resx">
+      <DependentUpon>DIRECTORIOS1-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIRECTORIOS2-6.resx">
+      <DependentUpon>DIRECTORIOS2-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Estadisticas.rdlc" />
+    <EmbeddedResource Include="Estadisticas.resx">
+      <DependentUpon>Estadisticas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="generador.resx">
+      <DependentUpon>generador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Grupos.resx">
+      <DependentUpon>Grupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listas.rdlc" />
+    <EmbeddedResource Include="listas3A.rdlc" />
+    <EmbeddedResource Include="listas3A.resx">
+      <DependentUpon>listas3A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listas4-6.resx">
+      <DependentUpon>listas4-6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listas4A-6A.rdlc" />
+    <EmbeddedResource Include="listasB.resx">
+      <DependentUpon>listasB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listasEscolares.resx">
+      <DependentUpon>listasEscolares.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="listasMensuales.rdlc" />
+    <EmbeddedResource Include="ListasMensuales.resx">
+      <DependentUpon>ListasMensuales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="llamado_listas.resx">
+      <DependentUpon>llamado_listas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="llam_calificaciones.resx">
+      <DependentUpon>llam_calificaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mensuales1_2.rdlc" />
+    <EmbeddedResource Include="principal.aa.resx">
+      <DependentUpon>principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principal.resx">
+      <DependentUpon>principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="DIRECTORIO1A.rdlc" />
+    <EmbeddedResource Include="Report1.rdlc" />
+    <None Include="Control_Escolar1DataSet.xsc">
+      <DependentUpon>Control_Escolar1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Control_Escolar1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Control_Escolar1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Control_Escolar1DataSet.xss">
+      <DependentUpon>Control_Escolar1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PROYECTO ESCUELA_TemporaryKey.pfx" />
+    <None Include="Resources\Mobile-Menu-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoescuela.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon cerrar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\universidad-estudiante-mortero-tapa-bordo-y-diploma_3446-334.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudiante.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graduacion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleados.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleados1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\producto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archivo.jpg" />
+    <Content Include="Sistema_Control_Escolar.sln" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

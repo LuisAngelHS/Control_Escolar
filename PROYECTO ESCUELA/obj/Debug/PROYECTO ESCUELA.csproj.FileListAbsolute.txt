@@ -1,0 +1,247 @@
+c:\users\dreamer\documents\visual studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.exe.config
+c:\users\dreamer\documents\visual studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.exe
+c:\users\dreamer\documents\visual studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.pdb
+c:\users\dreamer\documents\visual studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Properties.Resources.resources
+c:\users\dreamer\documents\visual studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csproj.GenerateResource.Cache
+c:\users\dreamer\documents\visual studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.exe
+c:\users\dreamer\documents\visual studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.pdb
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\BibliotecaDeClases.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\MySql.Data.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.AgregarAlumno.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\aa\PROYECTO ESCUELA.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.login.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.principal.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.principal.aa.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\aa\PROYECTO ESCUELA.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csprojAssemblyReference.cache
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csproj.CoreCompileInputs.cache
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csproj.CopyComplete
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Directorio.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Grupos.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\EnvDTE.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\stdole.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\EnvDTE80.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\VSLangProj.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\VSLangProj80.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\VSLangProj2.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.exe.config
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.BOLETA.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Boletas.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\Projects\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Form1.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.exe.config
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.exe
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.pdb
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\aa\PROYECTO ESCUELA.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\MySql.Data.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\EnvDTE.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\stdole.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\EnvDTE80.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\VSLangProj.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\VSLangProj80.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\VSLangProj2.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\es\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csprojAssemblyReference.cache
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.exe.config
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.AgregarAlumno.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Boletas.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Grupos.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.login.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.principal.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Properties.Resources.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.principal.aa.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csproj.GenerateResource.cache
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csproj.CoreCompileInputs.cache
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\aa\PROYECTO ESCUELA.resources.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.csproj.CopyComplete
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.exe
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.pdb
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.DIRECTORIOS1_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.DIRECTORIOS2_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.DIRECTORIO3_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.BOLETA.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.DIRECTORIO4_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.DIRECTORIO5_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.DIRECTORIO6_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.listasEscolares.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\itextsharp.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\itextsharp.xtra.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\itextsharp.xml
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.llamado_listas.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.ListasMensuales.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.listasB.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Estadisticas.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.CALIFICACIONES.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.llam_calificaciones.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.exe.manifest
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\bin\Debug\PROYECTO ESCUELA.application
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.exe.manifest
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO ESCUELA.application
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.archivos.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.listas3A.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.listas4_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.boleta4_6.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.generador.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.boletas3AS.resources
+C:\Users\Dreamer\Documents\Visual Studio 2015\PROYECTO ESCUELA\PROYECTO ESCUELA\obj\Debug\PROYECTO_ESCUELA.Boleta1_2.resources
